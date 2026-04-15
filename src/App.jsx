@@ -159,7 +159,7 @@ function App() {
                 title="Projeto em teste"
                 description="Em análise"
                 techs={["Em teste"]}
-                githubLink="https://github.com/reginaldosaude/portifolio"
+                githubLink="https://github.com/reginaldosaude/portifolio2"
               />
             </div>
           </div>
@@ -178,7 +178,7 @@ function App() {
               <div className="contact-item">
                 <div className="contact-icon"><i className="fab fa-github"></i></div>
                 <h3>GitHub</h3>
-                <a href="https://github.com/reginaldosaude/portifolio" target="_blank" rel="noopener noreferrer">github.com/reginaldosaude</a>
+                <a href="https://github.com/reginaldosaude/portifolio2" target="_blank" rel="noopener noreferrer">github.com/reginaldosaude</a>
                 <p style={{ marginTop: "0.8rem" }}>Repositórios e projetos</p>
               </div>
               <div className="contact-item">
@@ -190,7 +190,7 @@ function App() {
             </div>
             <div style={{ textAlign: "center", marginTop: "3rem" }}>
               <p>Vamos criar algo incrível juntos?</p>
-              <a href="https://github.com/reginaldosaude/portifolio" target="_blank" className="btn btn-outline" style={{ marginRight: "1rem" }}>
+              <a href="https://github.com/reginaldosaude/portifolio2" target="_blank" className="btn btn-outline" style={{ marginRight: "1rem" }}>
                 <i className="fab fa-github"></i> GitHub
               </a>
               <a href="https://wa.me/558699965097" target="_blank" className="btn btn-primary">
